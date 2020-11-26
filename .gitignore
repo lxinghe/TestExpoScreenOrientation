@@ -9,5 +9,8 @@ npm-debug.*
 *.orig.*
 web-build/
 
+# JetBrains products
+.idea/*
+
 # macOS
 .DS_Store
